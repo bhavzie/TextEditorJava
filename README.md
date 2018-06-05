@@ -10,3 +10,6 @@ A list of components added to the editor :
 
 The program makes use of the javax.swing Package and a few java.io Classes.
 
+Missing features :
+1)Adding responses to keypresses for save / saveAs & cut/copy/paste ( Use Java Mnemonics class )
+2)Using fileDialog instead of the manual implementation ( Seriously I wish I knew about it back when i was writing this code )
